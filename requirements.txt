@@ -1,0 +1,13 @@
+openai
+python-dotenv
+gradio
+langchain-openai
+langchain-chroma
+langchain-community
+langchain-text-splitters
+langchain-core
+pypdf
+ipykernel
+nbconvert
+scikit-learn
+plotly
